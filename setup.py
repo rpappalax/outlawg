@@ -1,13 +1,13 @@
 import io
 import os
 
-from fftool import __version__
+from outlawg import __version__
 from setuptools import setup, find_packages
 
 here = os.path.abspath(os.path.dirname(__file__))
-with io.open(os.path.join(here, 'README.md'), encoding='utf8') as f:
+with io.open(os.path.join(here, 'README.rst'), encoding='utf8') as f:
     README = f.read()
-with io.open(os.path.join(here, 'CHANGELOG.md'), encoding='utf8') as f:
+with io.open(os.path.join(here, 'CHANGELOG'), encoding='utf8') as f:
     CHANGES = f.read()
 
 extra_options = {
@@ -33,4 +33,3 @@ setup(name='outlawg',
       include_package_data=True,
       zip_safe=False
       )
-

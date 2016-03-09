@@ -35,6 +35,10 @@ or
 Example
 -----
 
+(example output)[https://github.com/rpappalax/outlawg/blob/master/Examples/output.txt]
+
+example code: 
+
 .. code:: bash
 
     from outlawg import Outlawg

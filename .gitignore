@@ -2,12 +2,12 @@
 *.sw[op]
 .Python
 env/
+venv/
 dist/
 .installed.cfg
 *.egg
 *.py[cod]
 *.egg-info
 *.stamp
-.venv/
 .coverage
 .tox/
