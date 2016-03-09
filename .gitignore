@@ -4,6 +4,7 @@
 env/
 venv/
 dist/
+build/
 .installed.cfg
 *.egg
 *.py[cod]
