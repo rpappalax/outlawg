@@ -5,7 +5,7 @@ from outlawg import __version__
 from setuptools import setup, find_packages
 
 here = os.path.abspath(os.path.dirname(__file__))
-with io.open(os.path.join(here, 'README.rst'), encoding='utf8') as f:
+with io.open(os.path.join(here, 'README.md'), encoding='utf8') as f:
     README = f.read()
 
 extra_options = {
