@@ -23,7 +23,7 @@ setup(name='outlawg',
                    'Topic :: Software Development :: Testing',
                    'Programming Language :: Python',
                    'Programming Language :: Python :: 2',
-                   'Programming Language :: Python :: 2.7'
+                   'Programming Language :: Python :: 2.7',
                    'Programming Language :: Python :: 3.4'
                    ],
       keywords='[logging, test]',
@@ -31,5 +31,4 @@ setup(name='outlawg',
       author_email='rpappalax@gmail.com',
       license='MPL2',
       include_package_data=True,
-      zip_safe=False
       )

@@ -8,6 +8,4 @@ dist/
 *.egg
 *.py[cod]
 *.egg-info
-*.stamp
-.coverage
 .tox/

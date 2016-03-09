@@ -10,7 +10,7 @@ No timestamping, no component listing with focus on header customization.
 
 |travis| |pypi|
 
-.. |travis| image:: https://travis-ci.org/rpappalax/outlawg.svg?branch=dev
+.. |travis| image:: https://travis-ci.org/rpappalax/outlawg.svg?branch=master
     :target: https://travis-ci.org/rpappalax/outlawg
 
 .. |pypi| image:: https://badge.fury.io/py/outlawg.svg
