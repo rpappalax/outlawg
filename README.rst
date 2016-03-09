@@ -35,7 +35,7 @@ or
 Example
 -----
 
-(example output)[https://github.com/rpappalax/outlawg/blob/master/Examples/output.txt]
+`example output <https://github.com/rpappalax/outlawg/blob/master/Examples/output.txt>`_
 
 example code: 
 
