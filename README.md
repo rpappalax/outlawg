@@ -8,13 +8,9 @@ Not your grandmother's logging tool.
 Simple logging, designed for non-application output.
 No timestamping, no component listing with focus on header customization.
 
-|travis| |pypi|
+[![Build Status](https://travis-ci.org/rpappalax/outlawg.svg?branch=master)](https://travis-ci.org/rpappalax/outlawg)
 
-.. |travis| image:: https://travis-ci.org/rpappalax/outlawg.svg?branch=master
-    :target: https://travis-ci.org/rpappalax/outlawg
-
-.. |pypi| image:: https://badge.fury.io/py/outlawg.svg
-    :target: http://badge.fury.io/py/outlawg
+[![Build Status](https://badge.fury.io/py/outlawg.svg)](https://badge.fury.io/py/outlawg)
 
 
 Install
