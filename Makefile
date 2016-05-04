@@ -21,6 +21,8 @@ clean:
 	rm -rf *egg*
 	rm -rf dist
 	rm -rf .tox
+	rm -rf venv/
+	rm -rf __pycache__/ 
 	find . -name '*.pyc' -exec rm -f {} +
 
 # for development branch only

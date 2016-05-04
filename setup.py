@@ -1,11 +1,10 @@
-import io
 import os
 
 from outlawg import __version__ 
 from setuptools import setup, find_packages
 
-here = os.path.abspath(os.path.dirname(__file__))
-with io.open(os.path.join(here, 'README.md'), encoding='utf8') as f:
+here = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(here, 'README.md')) as f:
     README = f.read()
 
 extra_options = {
@@ -21,7 +20,6 @@ setup(name='outlawg',
                    'Topic :: Software Development :: Testing',
                    'Programming Language :: Python',
                    'Programming Language :: Python :: 2',
-                   'Programming Language :: Python :: 2.7',
                    'Programming Language :: Python :: 3.4'
                    ],
       keywords='[logging, test]',
