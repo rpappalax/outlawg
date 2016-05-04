@@ -8,7 +8,7 @@ Not your grandmother's logging tool.
 Simple logging, designed for non-application output.
 No timestamping, no component listing with focus on header customization.
 
-[![Build Status](https://travis-ci.org/rpappalax/outlawg.svg?branch=master)](https://travis-ci.org/rpappalax/outlawg)  [![Build Status](https://badge.fury.io/py/outlawg.svg)](https://badge.fury.io/py/outlawg)
+[![Build Status](https://travis-ci.org/rpappalax/outlawg.svg?branch=dev)](https://travis-ci.org/rpappalax/outlawg)  [![Build Status](https://badge.fury.io/py/outlawg.svg)](https://badge.fury.io/py/outlawg)
 
 
 Install
@@ -29,7 +29,7 @@ $ python setup.py develop
 Example
 -----
 
-[https://github.com/rpappalax/outlawg/blob/master/Examples/output.txt](Example output)
+[Example output](/Examples/output.txt)
 
 example code: 
 
