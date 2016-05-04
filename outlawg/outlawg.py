@@ -1,4 +1,4 @@
-"""Module for simple logging with focus on readability."""
+"""Module for simple logging with focus on output readability."""
 
 LINE_XLONG = 80
 LINE_LONG = 70
@@ -45,3 +45,9 @@ class Outlawg(object):
         header_line = self.header_line('S', '*')
         header_line = '{0}\n{0}\n{0}\n{0}\n{0}'.format(header_line)
         print('{1}\n{0}\n{1}\n'.format(label.upper(), header_line))
+
+
+if __name__ == '__main__':
+
+    log = Outlawg()
+    log.header('HEY')
