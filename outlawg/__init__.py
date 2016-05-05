@@ -1,4 +1,4 @@
-from logger import Logger 
+from .outlawg import Outlawg 
 
 
-__version__ = '0.0.8'
+__version__ = '0.1.0'

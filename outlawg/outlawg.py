@@ -11,7 +11,7 @@ DASH = '-'
 DOT = '.'
 
 
-class Logger(object):
+class Outlawg(object):
 
     def __init__(self):
         pass
@@ -49,5 +49,5 @@ class Logger(object):
 
 if __name__ == '__main__':
 
-    log = Logger()
+    log = Outlawg()
     log.header('HEY')

@@ -1,7 +1,8 @@
 import os
 
-from outlawg import __version__ 
+from outlawg import __version__, outlawg 
 from setuptools import setup, find_packages
+
 
 here = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(here, 'README.md')) as f:
