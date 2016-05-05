@@ -1,1 +1,4 @@
-__version__ = '0.0.8'
+from .outlawg import Outlawg 
+
+
+__version__ = '0.1.0'
